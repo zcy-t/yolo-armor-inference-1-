@@ -1,0 +1,40 @@
+# 模型权重（不提交到 Git）
+weights/
+*.pt
+*.pth
+
+# 视频文件（不提交到 Git）
+*.mp4
+*.avi
+*.mov
+*.webm
+input.mp4
+output/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# 虚拟环境
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 系统
+.DS_Store
+Thumbs.db
+
+# 临时文件
+*.tmp
+*.log

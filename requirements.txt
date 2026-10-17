@@ -1,0 +1,8 @@
+# YOLO26n 装甲板四点检测推理 - 依赖列表
+# Python >= 3.10
+
+ultralytics>=8.3.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+torch>=2.0.0
+torchvision>=0.15.0
